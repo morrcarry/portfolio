@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Laptop Body -->
+  <rect x="50" y="80" width="100" height="60" fill="#333"/>
+  <!-- Laptop Screen -->
+  <rect x="55" y="85" width="90" height="50" fill="#FFF"/>
+  <!-- Laptop Keyboard -->
+  <rect x="60" y="145" width="80" height="10" fill="#444"/>
+</svg>
