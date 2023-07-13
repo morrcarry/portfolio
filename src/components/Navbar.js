@@ -1,5 +1,5 @@
 import logo from "../assets/logo.png";
-import resume from "../assets/resume.pdf";
+import resume from "../assets/MuditS.pdf";
 
 export default function Navbar() {
   return (
